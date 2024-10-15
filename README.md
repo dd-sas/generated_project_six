@@ -1,1 +1,1 @@
-# generated_project_six
+Default readme text
